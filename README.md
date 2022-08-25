@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my MTSU account.
+I'm Ian and this is my Github account.
 
 <!--
 **ianh-code/ianh-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
